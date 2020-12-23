@@ -1,0 +1,29 @@
+body {
+  background-color: #263e3e;
+  color: #fafafa;
+}
+
+.navbar .navbar-brand {
+  color: #fafafa;
+}
+
+.navbar span {
+  color: #cd303b;
+}
+
+.navbar .navbar-nav .nav-link {
+  color: #fafafa;
+}
+
+.card .card-body .positif {
+  color: orange;
+}
+
+.card .card-body .sembuh {
+  color: green;
+}
+
+.card .card-body .meninggal {
+  color: #cd303b;
+}
+/*# sourceMappingURL=main.css.map */
